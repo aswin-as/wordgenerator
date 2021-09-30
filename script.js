@@ -34,6 +34,7 @@ copy.addEventListener('click',function(){
 
     copyText.select();
     copyText.setSelectionRange(0, 99999);
+    document.execCommand("copy");
 
     navigator.clipboard.writeText(copyText.value);
 
