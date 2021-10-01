@@ -145,6 +145,10 @@ footer p{
     bottom: 0;
     text-align: center;
 }
+footer a{
+    text-decoration: none;
+    color: red;
+}
 
 /* footer ends */
 
