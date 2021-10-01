@@ -153,6 +153,18 @@ footer a{
 /* footer ends */
 
 
+/* aside starts */
+
+aside{
+    margin: 0;
+    padding: 3px;
+    text-align: right;
+    color: red;
+}
+
+/* aside ends */
+
+
 
 
 
